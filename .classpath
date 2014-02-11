@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="main/|test/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/snakeyaml-1.11.jar" sourcepath="/home/xiaolei/work/project/DistributedSystem/Lab0/lib/snakeyaml/target/snakeyaml-1.11-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
